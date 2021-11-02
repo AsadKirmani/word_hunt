@@ -8,4 +8,4 @@ PWA
 
 # Demo
 
-https://amazing_dictionary.web.app
+https://amazing-dictionary.web.app
